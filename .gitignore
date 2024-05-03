@@ -1,0 +1,4 @@
+# Ignore run_data folder
+run_data/
+input_data/
+/pmlb/
